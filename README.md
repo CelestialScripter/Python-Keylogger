@@ -1,5 +1,5 @@
 # Python-Keylogger
-NOTE: Only permitted testing or instructional reasons should be used with this project. The source code may be freely copied, altered, and reused at your own risk.
+NOTE: Only permitted testing or instructional reasons should be used with this project. The source code may be freely copied, altered, and reused at your own risk.<br />
 [python -3.7]>
 
 ## Uses
