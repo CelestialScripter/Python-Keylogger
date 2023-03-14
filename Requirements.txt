@@ -1,0 +1,3 @@
+Any operating system (For running *.bat files please use Windows
+Python 2.7 (or higher) (The code has been tested with Python version 2.7.10.)
+some programs (e.g. a browser or a editor)
